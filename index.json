@@ -24,8 +24,8 @@
         }],
     "sites":[
     {
-                "key": "js豆瓣1",
-                "name": "🌈免费接口，请勿贩售 公众号：宝盒没宝",
+                "key": "小杰",
+                "name": "收费的哦",
                 "type": 3,
                 "api": "./lib/drpy2.min.js",
                 "ext": "./lib/douban.js",
@@ -52,7 +52,7 @@
         },
         
     {      "key": "csp_Dm84",      "name": "🚌动漫巴士",      "type": 3,      "api": "csp_Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ying",      "name": "💮樱花动漫",      "type": 3,      "api": "csp_Ying",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Ysj",      "name": "🎀异界动漫",      "type": 3,      "api": "csp_Ysj",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },    {      "key": "csp_Anime1",      "name": "🐾日本动漫",      "type": 3,      "api": "csp_Anime1",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    }, 
-        {"key":"22","name":"接口仅供测试，请勿贩售","type":0,"api":""},
+        {"key":"22","name":"小杰先生","type":0,"api":""},
         {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
     
     
