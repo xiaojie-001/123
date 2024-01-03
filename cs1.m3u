@@ -11,7 +11,7 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/pla
 http://live1.gatv.com.cn:85/live/XWZH.m3u8
 #EXTINF:-1,文山公共频道
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1
-http://123.60.111.12/migu.php?id=cctv1b
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
-http://123.60.111.12/migu.php?id=cctv2
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV 1 
+http://120.27.200.109/api/channel/x945t/cctv1
+#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV 2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV 2 
+http://120.27.200.109/api/channel/x945t/cctv2
