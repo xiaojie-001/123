@@ -5,8 +5,10 @@ https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1,石景山电视台
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/青海卫视" tvg-id="青海卫视" tvg-name="青海卫视" group-title="卫视",青海卫视
-http://123.60.111.12/migu.php?id=qhws
+#EXTINF:-1,南宁影视娱乐频道
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1,南宁都市生活频道
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
 #EXTINF:-1,广安新闻综合频道
 http://live1.gatv.com.cn:85/live/XWZH.m3u8
 #EXTINF:-1,文山公共频道
