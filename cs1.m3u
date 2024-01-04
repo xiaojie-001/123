@@ -5,13 +5,13 @@ https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1,石景山电视台
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1,广南电视台
-http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8
+#EXTINF:-1 group-title="地方频道",舟山新闻综合
+http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 #EXTINF:-1,广安新闻综合频道
 http://live1.gatv.com.cn:85/live/XWZH.m3u8
 #EXTINF:-1,文山公共频道
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV 1 
-http://120.27.200.109/api/channel/x945t/cctv1
-#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV 2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV 2 
-http://120.27.200.109/api/channel/x945t/cctv2
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="电影",电影网
+http://123.60.111.12:4567/1905.php
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2
+http://123.60.111.12/migu.php?id=cctv2
