@@ -2,10 +2,11 @@
   "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;564F69FA12A8D491569E9631629E0011",
   "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites":[
-    {"key":"csp_WoGG","name":"小杰哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
-    {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"贱贱","name":"🐭贱贱┃p2p","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
-    {"key":"一起看","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1}
+    {"key":"csp_WoGG","name":"🍊抹茶妹妹4k","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
+    {"key":"一起看","name":"🍊抹茶妹妹2.5k","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"csp_Kunyu77","name":"🍊抹茶妹妹超清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"贱贱","name":"🍊抹茶妹妹超清","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"}
+    
   ],
   "parses":[
   {"name":"Web聚合","type":3,"url":"Web"},
