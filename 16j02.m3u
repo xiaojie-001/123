@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV 1 1
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV 1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV 1
 http://120.27.200.109/api/channel/16j02/cctv1
 #EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV 2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV 2 
 http://120.27.200.109/api/channel/16j02/cctv2
